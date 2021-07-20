@@ -1,4 +1,7 @@
-<div dir=rtl>
+<div dir=rtl align="center">
+به نام خدا
+</div>
+<div dir=rtl align="rtl">
 <h1> Git</h1>
 
 <h2>«کنترل نسخه» چیست و چرا باید بدان پرداخت؟</h2>
