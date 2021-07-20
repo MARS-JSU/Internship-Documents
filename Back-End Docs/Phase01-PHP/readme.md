@@ -1,3 +1,6 @@
+<div dir=rtl align="center">
+به نام خدا
+</div>
 <div dir="rtl" align='right'>
   
 # آشنایی با زبان PHP
