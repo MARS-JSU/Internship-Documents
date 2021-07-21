@@ -32,67 +32,67 @@
 </div>
   
 ### راهنمای شروع کار با PHPStorm
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm1.png "phpstorm1") 
+![phpstorm1](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm1.png ) 
 
 1. بر روی ایجاد پروژه‌ی جدید کلیک کنید. 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm2.png "phpstorm2")
+![phpstorm2](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm2.png )
 
 2. نوع پروژه را PHP Empty Project انتخاب کنید.
 3. مسیر پروژه را وارد کنید. 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm3.png "phpstorm3")
+![phpstorm3](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm3.png )
 
 4. بر روی پوشه‌ی اصلی پروژه کلیک راست کنید. 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm4.png "phpstorm4")
+![phpstorm4](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm4.png )
 
 5. از منوی باز شده گزینه New و سپس گزینه‌ی PHP File را انتخاب کنید. 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm5.png "phpstorm5")
+![phpstorm5](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm5.png )
 
 6. نام فایل را انتخاب کنید.
 7. بر روی دکمه تایید کلیک کنید تا فایل ایجاد شود. 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm6.png "phpstorm7")  
+![phpstorm6](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm6.png )  
 
 8. کدی که بالاتر قرار داده شده است را در فایل جدید کپی کنید و فایل را ذخیره کنید
 9. با کلیک بر روی این علامت یا با فشردن کلیدهای Alt + F12 ترمینال را باز کنید. 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm7.png "phpstorm8")
+![phpstorm7](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/phpstorm7.png )
 
 10. دستور نمایش داده شده را در ترمینال تایپ کنید و دکمه اینتر را فشار دهید.
 ### راهنمای شروع کار با VSCode 
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode1.png "vscode1")
+![vscode1](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode1.png )
   
 1. بر روی file کلیک کنید
 2. ایجاد فایل جدید را انتخاب کنید( از میانبر نمایش داده شده نیز م‌یتوانید استفاده کنید ) 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode2.png "vscode2")
+![vscode2](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode2.png )
   
 3. کد بالا را در این محل کپی کنید 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode3.png "vscode3")
+![vscode3](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode3.png )
   
 4. بر روی file کلیک کنید
 5. ذخیره را انتخاب کنید( از میانبر نمایش داده شده نیز می‌توانید استفاده کنید ) 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode4.png "vscode4")
+![vscode4](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode4.png )
   
 6. مسیر ذخیره را انتخاب کنید.
 7. برای فایل یک نام انتخاب کنید( به پسوند فایل دقت کنید )
 8. فایل را ذخیره کنید. 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode5.png "vscode5")
+![vscode5](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode5.png )
   
 9. با کلیک بر این دکمه مسیر پوشه‌ی حاوی فایل را انتخاب کنید. 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode6.png "vscode6")
+![vscode6](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode6.png )
   
 10. بر روی Terminal کلیک کنید.
 11. ایجاد ترمینال جدید را انتخاب کنید( از میانبر نمایش داده شده نیز می‌توانید استفاده کنید ) 
   
-![alt text](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode7.png "vscode7")
+![vscode7](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/Back-End%20Docs/Phase01-PHP/vscode7.png )
   
 12. دستور نوشته شده را در ترمینال وارد کنید و دکمه اینتر را فشار دهید.
 
