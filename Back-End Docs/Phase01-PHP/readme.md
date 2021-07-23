@@ -128,7 +128,16 @@ echo "Hello World!";
 در این بخش صرفا قصد داریم تا شما را با ساختار زبان PHP آشنا کنیم و نیازی به نوشتن کد در قالب بالا نداریم.
 
 برای یادگیری زبان PHP پیشنهاد می‌شود که به این [لینک](https://www.w3schools.com/php/default.asp) مراجعه کنید و مطالب را تا قبل از مبحث PHP Forms مطالعه کنید، همچنین تا جای ممکن نمونه‌ کدهای درون متن آموزش را بازنویسی کرده و اجرا کنید.
-البته برای یادگیری زبان PHP می‌توانید از این [ویدئوها](https://no.link) نیز استفاده کنید.
+البته برای یادگیری زبان PHP می‌توانید از این [ویدئوها](https://drive.google.com/file/d/1wXvvmm77FI1TQ-keo5T13KXOn_j-vSxl/view?usp=sharing) نیز استفاده کنید.
+
+## مباحث تکمیلی زبان PHP
+
+حال که مقداری آشنایی کلی با زبان PHP پیدا کرده‌اید مباحث زیر را نیز مطالعه کنید و با مفاهیمشان آشنایی پیدا کنید:
+
+* [Cookies](https://www.w3schools.com/php/php_cookies.asp)
+* [Sessions](https://www.w3schools.com/php/php_sessions.asp)
+* [JSON](https://www.w3schools.com/php/php_json.asp)
+* [Exceptions](https://www.w3schools.com/php/php_exceptions.asp)
 
 ## پروژه
 
