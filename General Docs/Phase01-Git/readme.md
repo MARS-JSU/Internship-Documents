@@ -40,7 +40,7 @@
 ![Git image 1](https://github.com/MARS-JSU/Internship-Documents/blob/Back-End/General%20Docs/Phase01-Git/Picture1.png)
 
 </div>
-_پ.ن: البته وضعیت «دنبال نشده» نیز داریم که به معنی عدم حضور داده در Git می‌باشد، ولی این وضعیت از دیدگاهی میان «وضعیت داده‌ها در گیت» طبقه بندی نمی‌شود._
+پ.ن: البته وضعیت «دنبال نشده» نیز داریم که به معنی عدم حضور داده در Git می‌باشد، ولی این وضعیت از دیدگاهی میان «وضعیت داده‌ها در گیت» طبقه بندی نمی‌شود.
 
 **_برای اطلاعات بیشتر این [لینک](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) را مطالعه بفرمایید._**
 
