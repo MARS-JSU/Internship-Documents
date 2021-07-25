@@ -37,7 +37,7 @@
 
  <div dir=ltr align="center">
 
-![Git image 1](https://github.com/MARS-JSU/Internship-Documents/blob/General-Phases/General%20Docs/Phase01-Git/Picture1.png)
+![Git image 1](https://github.com/MARS-JSU/Internship-Documents/blob/main/General%20Docs/Phase01-Git/Picture1.png)
 
 </div>
 پ.ن: البته وضعیت «دنبال نشده» نیز داریم که به معنی عدم حضور داده در Git می‌باشد، ولی این وضعیت از دیدگاهی میان «وضعیت داده‌ها در گیت» طبقه بندی نمی‌شود.
@@ -254,7 +254,7 @@ _پ.ن: با گزینه m- می‌توانید یک تگ( نام، پیام یا
 
  <div dir=ltr align="center">
 
-![Git image 2](https://github.com/MARS-JSU/Internship-Documents/blob/General-Phases/General%20Docs/Phase01-Git/Picture2.png)
+![Git image 2](https://github.com/MARS-JSU/Internship-Documents/blob/main/General%20Docs/Phase01-Git/Picture2.png)
 
 </div>
 
@@ -306,7 +306,7 @@ _پ.ن: با گزینه m- می‌توانید یک تگ( نام، پیام یا
 
 <div dir=ltr align="center">
 
-![Git image 3](https://github.com/MARS-JSU/Internship-Documents/blob/General-Phases/General%20Docs/Phase01-Git/Picture3.png)
+![Git image 3](https://github.com/MARS-JSU/Internship-Documents/blob/main/General%20Docs/Phase01-Git/Picture3.png)
 
 </div>
 
@@ -324,9 +324,9 @@ _پ.ن: با گزینه m- می‌توانید یک تگ( نام، پیام یا
 
 <div dir=ltr align="center">
 
-![Git image 4](https://github.com/MARS-JSU/Internship-Documents/blob/General-Phases/General%20Docs/Phase01-Git/Picture4.png)
+![Git image 4](https://github.com/MARS-JSU/Internship-Documents/blob/main/General%20Docs/Phase01-Git/Picture4.png)
 
-![Git image 5](https://github.com/MARS-JSU/Internship-Documents/blob/General-Phases/General%20Docs/Phase01-Git/Picture5.png)
+![Git image 5](https://github.com/MARS-JSU/Internship-Documents/blob/main/General%20Docs/Phase01-Git/Picture5.png)
 
 </div>
 
