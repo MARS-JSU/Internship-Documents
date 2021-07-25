@@ -295,7 +295,7 @@ _پ.ن: با گزینه m- می‌توانید یک تگ( نام، پیام یا
 <div dir=ltr align="left">
 
 ```powershell
-    >> git checkout
+    >> git checkout <branch name>
 ```
 
 </div>
