@@ -15,5 +15,8 @@
 برای مطالعه درباره‌ی شیءگرایی در زبان PHP به این [لینک](https://www.w3schools.com/php/php_oop_what_is.asp) مراجعه کنید.
 همچنین پیشنهاد می‌شود که این [ویدئوها](https://drive.google.com/file/d/1UGV0o0lQg3vb4d1poGgC8C_joxRzcVAm/view?usp=sharing) را حتما مشاهده کنید.
 
+## پروژه
+
+پروژه‌ی فاز قبل با شیءگرایی بازنویسی بشه و امکانات جدیدی هم اضافه بشه.
 
 </div>
