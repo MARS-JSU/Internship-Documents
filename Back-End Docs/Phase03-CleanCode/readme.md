@@ -60,6 +60,7 @@
 
 * [The Importance of SOLID Design Principles](https://www.bmc.com/blogs/solid-design-principles/#:~:text=The%20SOLID%20principles%20were%20developed%20to%20combat%20these%20problematic%20design,understand%2C%20maintain%2C%20and%20extend.)
 * [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+* [10 Basic Programming Principles Every Programmer Must Know](https://www.makeuseof.com/tag/basic-programming-principles/)
 
 </div>
 
