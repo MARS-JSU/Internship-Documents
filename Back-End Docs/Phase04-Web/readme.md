@@ -8,7 +8,7 @@
 
 # Web
 
-<div align"center">
+<div align="center">
 ![Web](https://github.com/MARS-JSU/Internship-Documents/blob/BackEnd-Phases/Back-End%20Docs/Phase04-Web/Image1.png )
 </div>
 
@@ -18,7 +18,7 @@ _برای مطالعه ببیشتر به این [لینک](https://www.techopedi
 
 ## Http
 
-<div align"center">
+<div align="center">
 ![Http](https://github.com/MARS-JSU/Internship-Documents/blob/BackEnd-Phases/Back-End%20Docs/Phase04-Web/Image2.jpeg )
 </div>
 
@@ -80,7 +80,7 @@ _برای مطالعه ببیشتر از لینک‌های زیر استفاده
 
 ## RESTful API
 
-<div align"center">
+<div align="center">
 ![REST](https://github.com/MARS-JSU/Internship-Documents/blob/BackEnd-Phases/Back-End%20Docs/Phase04-Web/Image3.png )
 </div>
 
@@ -106,7 +106,7 @@ _برای مطالعه‌ی بیشتر این [صفحه](https://restfulapi.net/
 
 ## MVC
 
-<div align"center">
+<div align="center">
 ![MVC](https://github.com/MARS-JSU/Internship-Documents/blob/BackEnd-Phases/Back-End%20Docs/Phase04-Web/Image4.png )
 </div>
 
