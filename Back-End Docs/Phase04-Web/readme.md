@@ -9,7 +9,10 @@
 # Web
 
 <div align="center">
-![Web](https://github.com/MARS-JSU/Internship-Documents/blob/BackEnd-Phases/Back-End%20Docs/Phase04-Web/Image1.png )
+
+![Web](https://github.com/MARS-JSU/Internship-Documents/
+blob/BackEnd-Phases/Back-End%20Docs/Phase04-Web/Image1.png )
+
 </div>
 
 به طور خلاصه وب زیر مجموعه‌ای از اینترنت است که شامل صفحاتیست که به وسیله مرورگر می‌توان به آنها دسترسی پیدا کرد.
@@ -19,7 +22,9 @@ _برای مطالعه ببیشتر به این [لینک](https://www.techopedi
 ## Http
 
 <div align="center">
+
 ![Http](https://github.com/MARS-JSU/Internship-Documents/blob/BackEnd-Phases/Back-End%20Docs/Phase04-Web/Image2.jpeg )
+
 </div>
 
 برای مطالعه درباره پروتکل Http که زیربنای شبکه وب است این [مقاله](https://blog.faradars.org/پروتکل-http/) را مطالعه کنید.
@@ -81,7 +86,9 @@ _برای مطالعه ببیشتر از لینک‌های زیر استفاده
 ## RESTful API
 
 <div align="center">
+
 ![REST](https://github.com/MARS-JSU/Internship-Documents/blob/BackEnd-Phases/Back-End%20Docs/Phase04-Web/Image3.png )
+
 </div>
 
 یکی از انواع طراحی نرم‌افزار مبتنی بر وب، طراحی یک API در سمت بک‌اند و طراحی یک کلاینت ( که با استفاده از APIها داده‌های مورد نیازش را دریافت کرده و سپس این داده‌ها را برای نمایش آماده می‌کند ) است.
@@ -107,7 +114,9 @@ _برای مطالعه‌ی بیشتر این [صفحه](https://restfulapi.net/
 ## MVC
 
 <div align="center">
+
 ![MVC](https://github.com/MARS-JSU/Internship-Documents/blob/BackEnd-Phases/Back-End%20Docs/Phase04-Web/Image4.png )
+
 </div>
 
 یک معماری مرسوم نرم‌افزارهای سمت بک‌اند معماری MVC است که برای مطالعه درباره این معماری میتوانید به این [لینک](https://virgool.io/apieco/mvc-چیست-به-زبان-ساده-tcayn934sbyp) مراجعه کنید.
