@@ -10,8 +10,7 @@
 
 <div align="center">
 
-![Web](https://github.com/MARS-JSU/Internship-Documents/
-blob/BackEnd-Phases/Back-End%20Docs/Phase04-Web/Image1.png )
+![Web](https://github.com/MARS-JSU/Internship-Documents/blob/BackEnd-Phases/Back-End%20Docs/Phase04-Web/Image1.png )
 
 </div>
 
