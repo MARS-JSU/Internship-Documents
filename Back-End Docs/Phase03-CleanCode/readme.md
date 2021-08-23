@@ -70,7 +70,19 @@ __نشانه‌های ذکر شده را در گزارشتان به طور مخ�
 
 برای آشنایی با اصول SOLID در زبان PHP می‌توانید این [ویدئوها](https://drive.google.com/file/d/1FG5O3cS81wtBzQFZ3ivbdaRDGHaczy0H/view?usp=sharing)
  را مشاهده کنید.
+ 
+می‌توانید از لینک‌های زیر برای مطالعه عمیقتر درباره SOLID استفاده کنید:
+ 
+<div dir="ltr" align="left">
+ 
+* [SOLID Design Principles Explained: The Single Responsibility Principle](https://stackify.com/solid-design-principles/)
+* [SOLID Design Principles Explained: The Open/Closed Principle with Code Examples](https://stackify.com/solid-design-open-closed-principle/)
+* [SOLID Design Principles Explained: The Liskov Substitution Principle with Code Examples](https://stackify.com/solid-design-liskov-substitution-principle/)
+* [SOLID Design Principles Explained: Interface Segregation with Code Examples](https://stackify.com/interface-segregation-principle/)
+* [SOLID Design Principles Explained: Dependency Inversion Principle with Code Examples](https://stackify.com/dependency-inversion-principle/)
 
+</div>
+ 
 __ابتدا دو مزایت از مزایای استفاده از SOLID را در گزارشتان ذکر کرده و توضیح بدهید، سپس پنج اصل SOLID را به اختصار توضیح بدهید.__
 
 ## بازبینی کد
